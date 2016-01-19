@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<Document xmlns="http://www.evolus.vn/Namespace/Pencil"><Properties/><Pages><Page><Properties><Property name="name">Untitled Page</Property><Property name="id">1453021239789_8161</Property><Property name="width">1268</Property><Property name="height">1508</Property><Property name="dimBackground"/><Property name="transparentBackground"/><Property name="backgroundColor">#ffffff</Property></Properties><Content><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:Bitmap" id="b584f739735b448bb6a36c5e9e480940" transform="matrix(1,0,0,1,423.4734191894531,97.91851043701172)"><p:metadata><p:property name="box"><![CDATA[400,123]]></p:property><p:property name="imageData"><![CDATA[400,123,../assets/logo_small.png]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFF00]]></p:property><p:property name="strokeColor"><![CDATA[#000000FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property></p:metadata>
+            <defs>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="imageShading" id="92bddf05e5b742faa63cbd7f09a22254">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g p:name="container" id="bba7e1dc3dcc456999e8ec95b420827d">
+                    <rect style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0; fill-opacity: 0;" p:name="bgRect" id="79dfd3aac1a6459abc212bad361b0bf9" width="400" height="123" transform="translate(0,0)"/>
+                    <g p:name="imageContainer" id="d095efd93c52489ab61c6d6b4e456f2a" transform="scale(1,1)">
+                        <image x="0" y="0" p:name="image" id="441c50ad64c74d37baa5dddf97dd8d35" xlink:href="../assets/logo_small.png" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="123"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#bba7e1dc3dcc456999e8ec95b420827d" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(1, 1)" p:filter="url(#92bddf05e5b742faa63cbd7f09a22254)" style="opacity: 0.6; visibility: hidden; display: none;" p:name="bgCopy" id="9c9eefeb4bbc45c795e5f2c4d979cbd0"/>
+            <use xlink:href="#bba7e1dc3dcc456999e8ec95b420827d" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="nz.nwatson.Bootstrap:textInput" id="80b5293f2a964303b70f261041871638" transform="matrix(1,0,0,1,389.25103759765625,252.74853515625)"><p:metadata><p:property name="box"><![CDATA[366.3999999999998,34]]></p:property><p:property name="radius"><![CDATA[4,0]]></p:property><p:property name="focused"><![CDATA[false]]></p:property><p:property name="textContent"><![CDATA[With somethingnew, you'll get a fun and challenging idea for making small changes to your habits and daily routines each day. Shake it up!]]></p:property><p:property name="textFont"><![CDATA["Helvetica Neue", Helvetica, Arial, sans-serif|400|normal|14px|none]]></p:property><p:property name="textColor"><![CDATA[#545454FF]]></p:property><p:property name="textAlign"><![CDATA[0,1]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFFFF]]></p:property><p:property name="strokeColor"><![CDATA[#CCCCCCFF]]></p:property><p:property name="activeColor"><![CDATA[#66AFE9FF]]></p:property><p:property name="strokeStyle"><![CDATA[1|]]></p:property><p:property name="position"><![CDATA[none]]></p:property></p:metadata>
+		<defs>
+			<filter height="1.5" y="-0.2" p:name="glowBlur" id="238c0b4a2844480790f9578ba941af81">
+				<feGaussianBlur stdDeviation="4"/>
+			</filter>
+
+			<linearGradient x1="0%" y1="0%" x2="0%" y2="100%" p:name="shadowFill" id="049337bce4644c41881cee9961111e70">
+
+				<stop offset="0" style="stop-color: rgb(242, 242, 242); stop-opacity: 1;" p:name="stop1" id="73ca870026564b298d2c8c7cce4035f5"/>
+				<stop offset="0.09999999999999999" style="stop-color:#FFFFFF;stop-opacity:1" p:name="stop2" id="fcb0b1fb5e944cd09ac1f0eb35cd0873"/>
+			</linearGradient>
+
+			<path p:name="bg" id="53dbfe444d344052a5f77cc13c48ee92" d="M 4,0 L 362.3999999999998,0 a 4,4 0 0,1 4,4l 0,26 a 4,4 0 0,1 -4,4L 4,34 a 4,4 0 0,1 -4,-4L 0,4 a 4,4 0 0,1 4,-4Z"/>
+		</defs>
+		<use xlink:href="#53dbfe444d344052a5f77cc13c48ee92" xmlns:xlink="http://www.w3.org/1999/xlink" p:heavy="true" p:filter="url(#238c0b4a2844480790f9578ba941af81)" style="opacity: 0.6; visibility: hidden; display: none; fill: rgb(102, 175, 233); fill-opacity: 1;" p:name="glow" id="864101e67a534fb68bedb9917fab055f"/>
+		<use xlink:href="#53dbfe444d344052a5f77cc13c48ee92" xmlns:xlink="http://www.w3.org/1999/xlink" style="fill: url(&quot;#049337bce4644c41881cee9961111e70&quot;) none; stroke: rgb(204, 204, 204); stroke-opacity: 1; stroke-width: 1;" p:name="bgActual" id="3ba1ac6f98e345639fb018ea58d132c5"/>
+		<text p:name="text" id="58a3cc20fd584d38a34907f184e47906" style="font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none; fill: rgb(84, 84, 84); fill-opacity: 1;" transform="translate(12,4)"><tspan x="0" y="0">With somethingnew, you'll get a fun and challenging</tspan><tspan x="0" y="17.600000381469727">idea for making small changes to your habits and</tspan><tspan x="0" y="35.20000076293945">daily routines each day. Shake it up!</tspan></text>
+	</g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="nz.nwatson.Bootstrap:Button" p:sc="Button (primary)" id="076ed1f554a5437793aebaf3e5b85a50" transform="matrix(1,0,0,1,402.50079345703125,419.74981689453125)"><p:metadata><p:property name="box"><![CDATA[133.49999999999997,34]]></p:property><p:property name="smartColor"><![CDATA[true]]></p:property><p:property name="radius"><![CDATA[4,0]]></p:property><p:property name="textContent"><![CDATA[Get me started!]]></p:property><p:property name="textFont"><![CDATA["Helvetica Neue", Helvetica, Arial, sans-serif|400|normal|14px|none]]></p:property><p:property name="textColor"><![CDATA[#FFFFFFFF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property><p:property name="fillColor"><![CDATA[#337AB7FF]]></p:property><p:property name="strokeColor"><![CDATA[#CCCCCCFF]]></p:property><p:property name="strokeStyle"><![CDATA[1|]]></p:property><p:property name="dropdown"><![CDATA[none]]></p:property><p:property name="dropdownDirection"><![CDATA[1]]></p:property><p:property name="position"><![CDATA[none]]></p:property></p:metadata>
+		<path p:name="bg" id="189f11e45c8043bda9e7a49628a66cff" d="M 4,0 L 129.49999999999997,0 a 4,4 0 0,1 4,4l 0,26 a 4,4 0 0,1 -4,4L 4,34 a 4,4 0 0,1 -4,-4L 0,4 a 4,4 0 0,1 4,-4Z" style="fill: rgb(51, 122, 183); fill-opacity: 1; stroke: rgb(46, 108, 163); stroke-opacity: 1; stroke-width: 1;"/>
+		<text p:name="text" id="aa97051f62934085b2aa99e47f217e02" style="font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none; fill: rgb(255, 255, 255); fill-opacity: 1;" transform="translate(12,21)"><tspan x="7.249999999999986" y="0">Get me started!</tspan></text>
+		<path style="opacity: 1; fill: rgb(255, 255, 255); fill-opacity: 1; stroke: none; visibility: hidden; display: none;" p:name="arrow" id="e7207671fd1a47669bbfa6d604c407b7" d="M 113.49999999999997,15 l 8,0 l -4,4 Z"/>
+		<path style="opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 1; stroke: rgb(46, 108, 163); visibility: hidden; display: none; stroke-opacity: 1; stroke-width: 1;" p:name="split" id="8192828c4d5e40778a9441e7624eb2e7" d="M107.49999999999997,0 l 0,34"/>
+	</g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RichTextBoxV2" p:sc="HTML Texts" id="055a46d891b046e199c4190931f66ae9" transform="matrix(1,0,0,1,374.0007629394531,257.4999694824219)"><p:metadata><p:property name="width"><![CDATA[200,0]]></p:property><p:property name="fixedWidth"><![CDATA[false]]></p:property><p:property name="textContent"><![CDATA[<br />]]></p:property><p:property name="textFont"><![CDATA["Liberation Sans",Arial,sans-serif|normal|normal|13px|none]]></p:property><p:property name="textColor"><![CDATA[#000000FF]]></p:property><p:property name="customStyle"><![CDATA[
+                ]]></p:property></p:metadata>
+
+            <foreignObject x="0" y="0" width="0" height="15" p:name="htmlObject" id="62bd0325c5b04f9490cd3c72f5391422" style="color: rgb(0, 0, 0); opacity: 1; font-family: &quot;Liberation Sans&quot;,Arial,sans-serif; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none;">
+                <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="0c1a4ce5d7884436a0cded9b7e9481bd" style="display: inline-block; white-space: nowrap; text-decoration: none;"><div xmlns="http://www.w3.org/1999/xhtml"><br /></div></div>
+            </foreignObject>
+        </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="nz.nwatson.Bootstrap:dropdown" id="4a7230ee9f87466e9b3ef097a493ace7" transform="matrix(1,0,0,1,583,310)"><p:metadata><p:property name="box"><![CDATA[172,132]]></p:property><p:property name="shadow"><![CDATA[true]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFFFF]]></p:property><p:property name="selectedColor"><![CDATA[#F5F5F5FF]]></p:property><p:property name="strokeColor"><![CDATA[#00000026]]></p:property><p:property name="strokeStyle"><![CDATA[1|]]></p:property><p:property name="contentText"><![CDATA[#How daring are you?
+Challenge me gently*
+I'm ready to change things
+Shake it up!]]></p:property><p:property name="textFont"><![CDATA["Helvetica Neue", Helvetica, Arial, sans-serif|400|normal|14px|none]]></p:property><p:property name="textColor"><![CDATA[#333333FF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+		<defs>
+			<filter height="1.5" y="-0.2" p:name="dropShadow" id="523def37e2fc419b8a98ec67ea9f1e56">
+				<feFlood flood-opacity="0.176" flood-color="rgb(0,0,0)" result="flood" p:name="flood" id="1e7c9e9f71084f50a5590c0d793815ea"/>
+				<feComposite in="flood" in2="SourceGraphic" operator="in"/>
+				<feGaussianBlur stdDeviation="6"/>
+				<feOffset dx="0" dy="6"/>
+			</filter>
+
+			<rect rx="4px" ry="4px" p:name="bg" id="c5883c8ef1fd4c86ac50982903dde186" x="0" y="0" width="172" height="132" style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 0.14902; stroke-width: 1;"/>
+		</defs>
+
+		<use xlink:href="#c5883c8ef1fd4c86ac50982903dde186" xmlns:xlink="http://www.w3.org/1999/xlink" p:heavy="true" p:filter="url(#523def37e2fc419b8a98ec67ea9f1e56)" p:name="shadow" id="403d470e05b64b11badee0a54d0e4ad8" filter="url(#523def37e2fc419b8a98ec67ea9f1e56)" style="visibility: visible;"/>
+		<use xlink:href="#c5883c8ef1fd4c86ac50982903dde186" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+
+		<foreignObject p:name="content" id="c9c10c51f4b240ce8d8e01a4db0c7d14" x="1" y="0" width="170" height="132" style="">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<ul style="list-style: outside none none; text-indent: 0px; padding: 5px 0px; color: rgb(51, 51, 51); opacity: 1;" p:name="list" id="129bb3fcbafc4e668b97e5a5abe82250"><li style="padding: 4px 20px; font: 400 normal 14px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; color: #7A7A7A; font-size: 12.04px">How daring are you?</li><li style="padding: 4px 20px; font: 400 normal 14px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; background: #F5F5F5">Challenge me gently</li><li style="padding: 4px 20px; font: 400 normal 14px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif">I'm ready to change things</li><li style="padding: 4px 20px; font: 400 normal 14px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif">Shake it up!</li></ul>
+			</div>
+		</foreignObject>
+	</g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="nz.nwatson.Bootstrap:textInput" id="fe2ea9d6ff454563b166d97168795ba2" transform="matrix(1,0,0,1,402,310)"><p:metadata><p:property name="box"><![CDATA[141.99999999999997,34]]></p:property><p:property name="radius"><![CDATA[4,0]]></p:property><p:property name="focused"><![CDATA[false]]></p:property><p:property name="textContent"><![CDATA[your@email.com]]></p:property><p:property name="textFont"><![CDATA["Helvetica Neue", Helvetica, Arial, sans-serif|400|normal|14px|none]]></p:property><p:property name="textColor"><![CDATA[#545454FF]]></p:property><p:property name="textAlign"><![CDATA[0,1]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFFFF]]></p:property><p:property name="strokeColor"><![CDATA[#CCCCCCFF]]></p:property><p:property name="activeColor"><![CDATA[#66AFE9FF]]></p:property><p:property name="strokeStyle"><![CDATA[1|]]></p:property><p:property name="position"><![CDATA[none]]></p:property></p:metadata>
+		<defs>
+			<filter height="1.5" y="-0.2" p:name="glowBlur" id="6a3c95822fd6439d8c779fbdd104e17f">
+				<feGaussianBlur stdDeviation="4"/>
+			</filter>
+
+			<linearGradient x1="0%" y1="0%" x2="0%" y2="100%" p:name="shadowFill" id="896192173ca1444f8e010ca5b0b4b35d">
+
+				<stop offset="0" style="stop-color: rgb(242, 242, 242); stop-opacity: 1;" p:name="stop1" id="be9519905b7640938f51f7b979e52577"/>
+				<stop offset="0.09999999999999999" style="stop-color:#FFFFFF;stop-opacity:1" p:name="stop2" id="e43d3d95f4dd4f8f836a335c3f16ceee"/>
+			</linearGradient>
+
+			<path p:name="bg" id="d7bcb9aefb9c436aafb2dc1f772472d3" d="M 4,0 L 137.99999999999997,0 a 4,4 0 0,1 4,4l 0,26 a 4,4 0 0,1 -4,4L 4,34 a 4,4 0 0,1 -4,-4L 0,4 a 4,4 0 0,1 4,-4Z"/>
+		</defs>
+		<use xlink:href="#d7bcb9aefb9c436aafb2dc1f772472d3" xmlns:xlink="http://www.w3.org/1999/xlink" p:heavy="true" p:filter="url(#6a3c95822fd6439d8c779fbdd104e17f)" style="opacity: 0.6; visibility: hidden; display: none; fill: rgb(102, 175, 233); fill-opacity: 1;" p:name="glow" id="f9299e04aeb9403da9a1b17570596c0f"/>
+		<use xlink:href="#d7bcb9aefb9c436aafb2dc1f772472d3" xmlns:xlink="http://www.w3.org/1999/xlink" style="fill: url(&quot;#896192173ca1444f8e010ca5b0b4b35d&quot;) none; stroke: rgb(204, 204, 204); stroke-opacity: 1; stroke-width: 1;" p:name="bgActual" id="87a9fd20cdeb4698876fb13888f77248"/>
+		<text p:name="text" id="18b9becc08114206965fdfc86908c27f" style="font-family: &quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif; font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none; fill: rgb(84, 84, 84); fill-opacity: 1;" transform="translate(12,22)"><tspan x="0" y="0">your@email.com</tspan></text>
+	</g></Content></Page></Pages></Document>
